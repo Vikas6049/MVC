@@ -1,0 +1,5 @@
+C:\Users\Vikasbh\source\repos\Demotry\ModelClass\bin\Debug\ModelClass.dll
+C:\Users\Vikasbh\source\repos\Demotry\ModelClass\bin\Debug\ModelClass.pdb
+C:\Users\Vikasbh\source\repos\Demotry\ModelClass\obj\Debug\ModelClass.csproj.CoreCompileInputs.cache
+C:\Users\Vikasbh\source\repos\Demotry\ModelClass\obj\Debug\ModelClass.dll
+C:\Users\Vikasbh\source\repos\Demotry\ModelClass\obj\Debug\ModelClass.pdb
